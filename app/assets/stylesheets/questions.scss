@@ -1,0 +1,55 @@
+// Place all the styles related to the pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+// input {
+//   border-radius: 5px;
+//   height : 20px;
+// }
+
+p {
+  font-family: arial;
+  font-size: 15px;
+}
+
+.your-question {
+    border-radius: 5px;
+  height : 40px;
+  font-size: 15px;
+}
+
+
+
+.btn {
+ border-radius: 5px;
+  height : 48px;
+  width: 100px;
+  background: #EF7E56;
+  font-size: 15px;
+}
+
+
+
+.question {
+  width: 600px;
+  border-left: 5px solid grey;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.answer {
+  width: 600px;
+  background-color: #FAFCD6;
+  border-left: 5px solid grey;
+  padding: 10px;
+}
+
+.back a {
+  text-decoration: none;
+  font-family: arial;
+  font-size: 13px;
+}
+
+a:hover {
+  color: #EF7E56;
+}
